@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+ruby "2.6.8"
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
